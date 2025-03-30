@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Estaciónes del año.
 
 -- Primavera:
