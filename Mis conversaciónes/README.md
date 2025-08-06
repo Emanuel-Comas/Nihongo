@@ -28,9 +28,12 @@
     アニメのほうをよくみます。
     アニメ: Anime
     のほう: Literalmente "el lado de" o "la opcion de", usado aqui para comprar o dar enfasis/preferencia ->"mas anime", aqui se esta comparando con otras cosas, como fútbol u otras actividades.
-    ![alt text](image.png)
+    🆚 Comparación simple:
+        Japonés	                   Español	                        Uso
+       アニメを見ます。	       Veo anime.	            Hecho simple.
+       アニメのほうを見ます。	    Veo más anime.	         Hay una comparación implícita.
+       アニメのほうがすきです。    Me gusta más el anime.	 Comparando gustos.
     を: Particula de objeto directo que recibe al accion del verbo que sigue.
     よく: A menudo, con frecuencia.
     みます。: Mirar, ver(Forma educada).
     Resumen: Veo más anime o Veo anime más seguido.
-
