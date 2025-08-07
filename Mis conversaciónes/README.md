@@ -127,3 +127,58 @@
     さいこうの: De lo mejor, excelente.
     チームのひとつ: Uno de los equipos.
     Resumen: Es la mas fuerte de asia y una de las mejores del mundo.
+
+
+
+    そうですか。そういってもらえてすごくうれしいです。
+    そう: "Asi" o "eso".
+    ですか。: "か"Particula que convierte al oración en una pregunta formal.
+    そういって: "decir eso" (Del verbo "decir" en forma "て".)
+    もらえて: Forma て del verbo "もらう" (Recibir algo que alguien hace por ti.)
+        -- Aqui implica "recibir el favor de que gias eso."
+    すごく: Muy/muchisimo (forma mas informal de "とても")
+    うれしいです。: "Muy feliz" formal.
+    Resumen: Ah, si?, Me alegra mucho que me digas eso.
+    こっちもアルゼンチンチームだいすきです。
+    こっちも: "Aqui tambien" o "Nosotros tambien".
+        こっち: Este lado/aqui/nosotros.
+        も: Particula que significa "tambien."
+    アルゼンチンチーム: El equipo de Argentina.
+        -- Se usa Katakana por ser una palabra extranjera.
+    だいすきです。: "Nos encanta" o "Amamos mucho".
+        だいすき: "Gustar mucho" o "Amar"
+    Resumen: Aqui tambien nos encanta el equipo de Argentina.
+    ワールドカップかっておめでとう。
+    ワールドカップ: "World Cup" (Copa del mundo.)
+    かって: Forma "て" del verbo "かつ, ganar".
+    おめでとう。: "Felicidades" (Forma informal.)
+        -- En versión más formal seria おめでとうございます。
+    Resumen: Felicidades por ganar la copa del mundo.
+    アルゼンチンがかって　すごくうれしかったです。
+    ルゼンチンが: "Argentina (Sujeto de la oración.)"
+    かって: Forma "て" del verbo: "かつ, ganar".
+    すごく: Muy/muchisimo.
+    うれしかったです。: "me alegre mucho" (Forma pasada y formal de "うれしいです".)
+    Resumen: Me puso muy feliz que Argentina ganara.
+
+
+
+    うーん　クリスティアノロナウドがいるので、ポルトガルのほうがもっとすきです。
+    うーん: Es una interjección como "hmm..." o "veamos..." que muestra que la persona está pensando.
+    クリスティアノロナウド: Cristiano Ronaldo(En katakana).
+    がいる: "Está" o "Se encuentra" (Verbo "いる" para seres vivos.)
+    ので: Particula que indica causa o motivo, "porque".
+    ポルトガル: Portugal.
+    のほうが: Estructura comparativa: Más que "otro".
+        -- Se usa para hacer comparaciones, como decir "prefiero A a B" o "A es más (algo) que B."
+    もっと: "Más"
+    すきです。: Me gusta.
+    Resumen: me gusta mas portugal porque está Cristiano Ronaldo.
+    らいねんのワールドカップでかってほしいです。
+    らいねん: El año que viene.
+    の: Particula posesiva (De.)
+    ワールドカップ: "World Cup", Copa del mundo.
+    で: Particula de lugar o evento: "en".
+    かって: Forma "て" del verbo: "かつ, ganar".
+    ほしいです。: "Quiero que (alguien) lo haga".
+    Resumen: Quiero que gane en el Mundial del año que viene.
