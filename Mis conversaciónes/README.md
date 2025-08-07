@@ -182,3 +182,30 @@
     かって: Forma "て" del verbo: "かつ, ganar".
     ほしいです。: "Quiero que (alguien) lo haga".
     Resumen: Quiero que gane en el Mundial del año que viene.
+
+
+
+    そうなんだ　ウケる。
+    そうなんだ: Expresa sorpresa o interés, como "Ah, si?" o "En serio?."
+    ウケる。: Literealmente significa "Recibir", pero en el lenguaje coloquial juvenil japónes se usa como 
+    "Es gracioso" o "Me ahce reir", seria como decir: "Que risa!" o "LOL" en español informal.
+    Resumen: Ah, si?, que risa/En serio?, que gracioso.
+    アルゼンチンなのにロナルドなんだ。
+    アルゼンチン: Argentina.
+    なのに: Aunque/a pesar de que.
+    ロナルドなんだ。: Apoyas/te llamas/eres partidario/fan de Ronaldo. 
+    Resumen: Aunque eres de argentina, apoyas/eres partidario/fan de Ronaldo.
+    そういうのはじめてきいた。
+    そういうの: "Algo asi" o "ese tipo de cosa".
+    はじめて: Por primera vez.
+    きいた。: Escuché/oi.
+    -- Es una expresión comun para decir que algo es nuevo o sorprendente para la persona.
+    Resumen: "Nunca habia oido algo asi" o "Es la primera vez que escucho algo asi."
+    クリスティアノロナウドのもっているきりつがいつもすきでした。
+    クリスティアノロナウド: Cristiano Ronaldo.
+    の: Posesivo.
+    もっている: "Tener" (Algo intangible como cualidades.)
+    きりつ: Disiplina.
+    が: Sujeto de la frase.
+    いつも: Siempre.
+    すきでした。: Me gustó/me ah gustado (pasado, pero puede usarse para expresar "siempre me ha gustado.")
