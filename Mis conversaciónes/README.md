@@ -225,3 +225,23 @@
     haces habitualmente.
     の?: Particula final que indica pregunta en lenguaje informal, con todo de curiosidad o interés.
     Resumen: Qué sueles hacer normalmente?.
+
+
+
+    えいがとかスペイン語のべんきょうしている。
+    えいが: Peliculas.
+    とか: Cosas como/por ejemplo.
+    スペイン語: Idioma español(Con el kanji de "ご -> 語")
+    の: De/posesion(Conecta "español" con "estudio".).
+    べんきょう: Estudio
+    している。: Estoy haciendo/estoy estudiando(Forma continua del verbo "suru", es decir "hacer").
+
+
+    わたしはプログラ三ングとサイバーセキュリティをべんきょうしています。
+    わたし: Yo(Tema de la frase.)
+    は: Particula de tema.
+    プログラ三ング: Programación.
+    と: "Y".
+    サイバーセキュリティ: Ciberseguridad.
+    を: Particula de objeto directo.
+    べんきょうしています。: Estoy estudiando(Forma continua del verbo "estudiar.").
