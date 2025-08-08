@@ -209,3 +209,19 @@
     が: Sujeto de la frase.
     いつも: Siempre.
     すきでした。: Me gustó/me ah gustado (pasado, pero puede usarse para expresar "siempre me ha gustado.")
+
+
+    あー　そうなんだ。
+    あー: Ah.
+    そう: "Asi", "eso" o "de esa manera"
+    なんだ。: Literal: "Es que..." o "Ah, ya veo."
+    Resumen: "Ah, ya veo" o "Ah, asi es, he?"
+
+
+    ふだんなにしてるの?
+    ふだん: "Normalmente" o "Habitualmente".
+    なに: "Qué".
+    してる: Forma coloquial de している, del verbo する(Hacer), en presente continuo, Implica algo que 
+    haces habitualmente.
+    の?: Particula final que indica pregunta en lenguaje informal, con todo de curiosidad o interés.
+    Resumen: Qué sueles hacer normalmente?.
