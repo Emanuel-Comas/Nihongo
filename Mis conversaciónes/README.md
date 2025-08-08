@@ -235,6 +235,7 @@
     の: De/posesion(Conecta "español" con "estudio".).
     べんきょう: Estudio
     している。: Estoy haciendo/estoy estudiando(Forma continua del verbo "suru", es decir "hacer").
+    Resumen: Estoy estudiando/hago/estudio peliculas y español, entre otra cosas.
 
 
     わたしはプログラ三ングとサイバーセキュリティをべんきょうしています。
@@ -245,3 +246,4 @@
     サイバーセキュリティ: Ciberseguridad.
     を: Particula de objeto directo.
     べんきょうしています。: Estoy estudiando(Forma continua del verbo "estudiar.").
+    Resumen: Yo estudio programación y ciberseguridad.
