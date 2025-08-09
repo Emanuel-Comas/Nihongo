@@ -247,3 +247,30 @@
     を: Particula de objeto directo.
     べんきょうしています。: Estoy estudiando(Forma continua del verbo "estudiar.").
     Resumen: Yo estudio programación y ciberseguridad.
+
+
+
+    あんまり話せないです。
+    あんまり: "Mucho" o "no mucho" (en contexto negativo.)
+    話せない: Forma potencial negativa del verbo "話す"(hablar), significa no poder hablar.
+        話: Es el kanji de "hanashi", cuando se usa como sustantivo ("conversación", "hablar", "charlar").
+        話す: Cuando se usa como verbo ("Hablar", "decir".)
+    です。: Forma cortés final de la oración.
+    Resumen: No puedo hablar mucho el idioma.
+
+
+    日本語をべんきょうしています。
+    日本語: Idioma japonés.
+    を: Particula que indica el objeto directo.
+    べんきょうしています。: Estoy estudiando(Forma progresiva del verbo "べんきょうする".)
+    Resumen: Yo estudio japonés.
+    日本語がすきです。
+    が: Particula que indica el sujeto de "gustos".
+    きです。: Me gusta(Literalmente, "es querido para mi.")
+    Resumen: Me gusta el idioma.
+    友だちになりたいですか。
+    友だち: Amigo/a.
+    に: Particula que indica el objeto de transformación.
+    なりたいです: Quiero convertirme(en), de "なる"(convertirse) + たい(querer).
+    ですか。: Forma educada de hacer la pregunta.
+    Resumen: Quieres ser mi amiga/o?.
