@@ -287,22 +287,54 @@
     Resumen: En serio?, que inteligente eres.
 
 
-    サイバーセギュリてィのあたらしいことをまなぼうとしていて。
-    イバーセギュリてィ: Ciberseguridad.
-    の: particula posesiva.
+    サイバーセキュリティについてあたらしいことを学ぼうとしてます。
+    サイバーセキュリティ: Ciberseguridad.
+    について: "Sobre" o "Acerca de", se usa para indicar el tema.
     あたらしいこと: Cosas nuevas.
     を: Particula de objeto.
-    まなぼうとしていて。: Estoy intentado aprender.
-    Resumen: Intento aprender cosas nuevas de Ciberseguridad.
-    日本語をじょうたつさせて。
+    学ぼうとしてます。(まなぼうとしています): Forma gramatical que indica "estar intentando aprender."
+        学ぼう: "まなぼう" , forma volitiva de "aprender"(manabou), como decir "Voy a aprender".
+        としてます。: "してます", "Estar haciendo[algo]" -> "Estoy intentando".
+        学: Se pronuncia ("gaku o manabu", según el contexto), significa:
+            -- Aprender.
+            -- Estudiar.
+            -- Educación.
+        -- Ejemplos:
+            -- 学生(gakusei): Estudiante.
+            -- 学校(gakkou): Escuela.
+            -- 学ぶ(manabu): Aprender.
+    Resumen: Estoy intentando aprender cosas nuevas sobre Ciberseguridad.
+    また、日本語をじょうたつさせて、
+    また、: "Ademas", "Tambien" o "Por otra parte".
     日本語: Idioma japonés.
     を: Particula de objeto.
     じょうたつさせて。: Mejorar.
-    Resumen: Mejorar mi japonés.
-    日本人の友だちをつくりたいんだ。
+    、: "Coma", proque sigue la otra oración luego.
+    Resumen: Ademas intento mejorar mi japonés.
+    日本人の友達をつくりたいです。
     日本人: Japonéses, haciendo referencia a personas de nacionalidad japonésa.
     の: Particula posesiva.
-    友だち: Amigo/a.
+    友達: Kanji de "Amigo/a."
     を: Particula de objeto.
-    つくりたいんだ。: Quiero hacer(amigos) + tono explicativo informal.
+    作りたい(つくりたい): Quiero hacer(amigos) o querer crear.
+        -- Esal forma querer(たい) del verbo 作る(つくる"tsukuru", hacer/crear).
+    です。: Forma educada de terminar la frase(como "es", pero mas formal aqui.)
     Resumen: Quiero hacer amigos/as japonéses.
+
+
+    言葉の訂正ありがとうございます。
+    言葉: (ことば) Palabras/lenguaje.
+    の: Particula de posesión(como "de").
+    言葉: (ていせい) Corrección(de errores).
+    ありがとうございます。: Muchas gracias(Forma educada.)
+    Resumen: Gracias por la corrección de palabras.
+    人工知能とサイバーネットワークが好きです。
+    人工知能: (じんこうちのう) Inteligencia Artificial(IA).
+        人工: Artificial.
+        知能: Inteligencia.
+    と: "Y"(Conecta dos o mas sustantivos.)
+    サイバーネットワーク: Red cibernética/Red digital(Del inglés "Cyber Network".)
+        También puedes usar solo サイバーネットワーク(red) o サイバーセキュリティ(Ciberseguridad, si hablas 
+        de seguridad en redes.)
+    が好きです。: Me gusta(gramática para expresar gustos.)
+    Resumen: Me gusta la inteligencia artificial y las redes cibernéticas.
