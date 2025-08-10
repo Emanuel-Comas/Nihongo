@@ -274,3 +274,35 @@
     なりたいです: Quiero convertirme(en), de "なる"(convertirse) + たい(querer).
     ですか。: Forma educada de hacer la pregunta.
     Resumen: Quieres ser mi amiga/o?.
+
+
+    マジか　頭いいね。
+    マジ: "En serio?" o "De verdad?"
+        -- Lenguaje coloquial(informal).
+    か: Particula interrogativa.
+    頭: Kanji de ("あたま", significa cabeza), en este contexto, es uan forma "abreviada o informal"
+    de decir "Tener buena cabeza", es decir, ser inteligente.
+    いい: Significa bueno o bien.
+    ね。: Particula usada al fianl para suavizar o buscar acuerdo, como decir: "verdad?", "he?" o "no crees?."
+    Resumen: En serio?, que inteligente eres.
+
+
+    サイバーセギュリてィのあたらしいことをまなぼうとしていて。
+    イバーセギュリてィ: Ciberseguridad.
+    の: particula posesiva.
+    あたらしいこと: Cosas nuevas.
+    を: Particula de objeto.
+    まなぼうとしていて。: Estoy intentado aprender.
+    Resumen: Intento aprender cosas nuevas de Ciberseguridad.
+    日本語をじょうたつさせて。
+    日本語: Idioma japonés.
+    を: Particula de objeto.
+    じょうたつさせて。: Mejorar.
+    Resumen: Mejorar mi japonés.
+    日本人の友だちをつくりたいんだ。
+    日本人: Japonéses, haciendo referencia a personas de nacionalidad japonésa.
+    の: Particula posesiva.
+    友だち: Amigo/a.
+    を: Particula de objeto.
+    つくりたいんだ。: Quiero hacer(amigos) + tono explicativo informal.
+    Resumen: Quiero hacer amigos/as japonéses.
