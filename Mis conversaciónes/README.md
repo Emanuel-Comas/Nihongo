@@ -361,6 +361,9 @@
     こと: Literalmente "Cosa" o "Hecho".
     そして: Conjunción que significa "Y ademas" o "Tambien".
     エーアイ: AI (Inteligencia Artificial).
+        人工知能: Normalmente se escribe asi en japonés.
+        人工:(じんこう), Artificial, "Literalemnte, hecho por el hombre."
+        知能:(ちのう), Inteligencia, "capacidad mental.".
     にも: Particula compuesta:
         に: Indica el destino o el objeto de interés(Como "en", "a".)
         も: Tambien.
@@ -370,3 +373,71 @@
     "Por eso es que".
     Resumen: Siempre me ha gustado la ciberseguridad, lo que pasa en redes y también la inteligencia 
     artificial.
+
+
+    へー　いいね　確かに今はAI時代だからこういう分野を勉強するのが大切だよね〜
+    へー: "Oh" o "Ah, mira", expresa sorpresa o interés.
+    いいね: "Que bien" o "Suena bien", Expresión positiva para mostrar aprobación o entusiasmo.
+    確かに: (たしかに), "Ciertamente" o "Es verdad".
+    今はAI時代: (いまはエーアイじだい), "Ahora es la era de la IA", 今(Ahora) + は(Tema) + AI時代 
+    (Era de la inteligencia artificial.)
+    だから: "Asi que" o "Por eso", conector casual, introduce la razón de algo.
+    こういう分野: "Este tipo de campo/área", こういう: "Asi" o "como este", 分野: "Campo", en sentido 
+    académico o profesional.
+    を勉強する: (をべんきょうする), "estudiar", El verbo "Estudiar" aplicado a ese campo.
+    のが大切だ: (のがたいせつが), Es importante, 大切: Importante, "のが" convierte la acción de "estudiar" 
+    en un sustantivo.
+    よね〜: "Es verdad", tonmo de confirmación amistoso, よね al final suaviza y busca acuerdo con el oyente, 
+    El "〜" alarga el tono informal y amigable.
+
+    Resumen: Oh, que bien Ciertamente, ahora es la era de la IA, asi que estudiar este tipo de campo es importante, verdad?.
+
+    俺はちょっとプログラミングとか苦手で無理なんだけどww
+    俺は: (あれは), "yo", 俺 forma casual y masculina de decir (yo), usada comúnmente entre amigos o en 
+    situaciones informales.
+    ちょっと: "Un poco" o "Algo".
+    プログラミングとか: "Cosas como la programación", とか: indica ejemplos no exhaustivos, como decir, 
+    "programación y esas cosas."
+    苦手で: (にがてで), "No se me da bien" o "soy malo en eso" , 苦手: algo que no se te da bien o que 
+    no te gusta hacer, el で conecta con la siguiente parte.
+    無理なんだけど: (むりなんだけど), "Es imposible para mi, pero..." , 無理: Imposible, 
+    なんだけど: Suaviza el final y da tono de "bueno... ya sabes", muy común en japonés hablado.
+    ww: Risa, Viene de "笑う, (わらう, reir)", ysado en chats como "jajaja" o "lol".
+    Resumen: Yo soy un poco malo con cosa como la programación, asi que es imposible para mi jajaja.
+
+
+    今はもう何でも人工知能使われててすごいよね。
+    今: (いま), Ahora.
+    は: Particula de tema.
+    もう: ya.
+    何でも: (何: qué ), en todo, cualquier cosa.
+    人工知能: 人工: artificial, 知能: inteligencia
+    使われてて: (使: usar), se está usando (voz pasiva  continua.)
+    すごい: Genial, impresionante.
+    よね。: Verdad?, tono confirmativo/casual.
+    Resumen: Ahora ya se usa inteligencia artificial en todo, está bueno, no?
+    もしかしたらサイバーセキュリティを勉強してみるのもいいかも。
+    もしかしたら: Tal vez.
+    サイバーセキュリティ: Ciberseguridad.
+    を: Particula de objeto directo.
+    勉強: (べんきょう), 勉: Esfuerzo, 強: Fuerza, "estudio o estudiar."
+    してみる: Intentar hacer.
+    のも: También(estructura gramatical.)
+    いい: Bueno.
+    かも。: Quizas, podria ser.
+    Resumen: Tal vez podrias intentar estudiar ciberseguridad.
+    まずはネットワークについて学ばないとね。
+    まずは: Primero.
+    ネットワーク: Red(network -> katakana).
+    について: Sobre(acerca de).
+    学ばないと: 学: Aprender, Hay que aprender.
+        学ぶ: Aprender
+        学ばない: No aprender(Forma negativa.)
+        学ばないと: "Si no aprendo" o "Tengo que aprender."
+        ないと: En japonés, cuando dices verbo(Forma negativa.) + ないと, quiere decir, 
+        "Tengo que hacer" o "Es necesario hacer."
+            Ejemplo: 食べないと, tengo que comer.
+            En resumen: ないと, "Tengo que" o "debo.", habla de algo que tienes que ahcer pronto o en el 
+            futuro, n oes na forma gramatical del futuro en si(como español o inglés), pero implica obligación futura de forma común.
+    ね。: Sabes?, tono suave.
+    Resumen: Primero hay que aprender sobre redes.
