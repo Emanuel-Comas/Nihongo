@@ -338,3 +338,35 @@
         de seguridad en redes.)
     が好きです。: Me gusta(gramática para expresar gustos.)
     Resumen: Me gusta la inteligencia artificial y las redes cibernéticas.
+
+
+    へー　何で好きなの?。
+    へー: Expresa sorpresa o interés, parecida a: "he?", "vaya" o "ah, si?", en español.
+    何で: Significa "Por qué?." o "Por qué razón?."
+    好き: Significa "Gustar" o "Que te gusta".
+    なの: Es una particula usada al final de una pregunta para expresar curiosidad o interés, a menuda 
+    con un tono suave o informal.
+    Resumen: Eh?, Por qué te gusta?.?
+
+
+    ずっとサイバーセキュリティやネット上でおこることそしてエーアイにもきょうみがあるんだ。
+    ずっと: Significa: "Siempre" o "desde hace tiempo."
+    サイバーセキュリティ: Ciberseguridad en Katakana.
+    や: Particula de enumeracion, como "Y", pero para dar ejemplos no exhaustivos(como decir, 
+    "Cosas como X y Y.")
+    ネット上: "ネット" es Abreviación de internet, "じょう上"(上) es "Encima" o "en", entonces ネット上
+    Significa "En internet" o "En la red".
+    で: Particula que indica el lugar donde ocurre algo: "En".
+    おこる: Verbo que significa "Ocurrir" o "Pasar".
+    こと: Literalmente "Cosa" o "Hecho".
+    そして: Conjunción que significa "Y ademas" o "Tambien".
+    エーアイ: AI (Inteligencia Artificial).
+    にも: Particula compuesta:
+        に: Indica el destino o el objeto de interés(Como "en", "a".)
+        も: Tambien.
+        にも: Juntas "También tengo interés en".
+    きょうみがある: "興味" es Interés, がある es Hay/tener, entonces きょうみがある es "Tener interés."
+    んだ。: Forma explicita o enfática de decir algo, da un tono de "Te estoy contando algo personal" o 
+    "Por eso es que".
+    Resumen: Siempre me ha gustado la ciberseguridad, lo que pasa en redes y también la inteligencia 
+    artificial.
