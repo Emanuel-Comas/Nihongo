@@ -441,3 +441,47 @@
             futuro, n oes na forma gramatical del futuro en si(como español o inglés), pero implica obligación futura de forma común.
     ね。: Sabes?, tono suave.
     Resumen: Primero hay que aprender sobre redes.
+
+
+    ね！　まー俺もスペイン語勉強に人工知能たまに使ってるしー
+    ね！: Interjección que se usa para llamar la atención o reforzar algo, como decir:"Oye" o "Verdad?."
+    まー: Versión informal de "まあ", usada para expresar un "bueno..." o "pues..."
+    俺: "おれ" + "も ", Yo también
+    スペイン語勉強に: Para estudiar español.
+        スペイン語; Español.
+        勉強: Estudio.
+        に: Indica propósito o destino, como "con el fin de".
+    人工知能: Inteligencia artificial.
+        人工: Artificial.
+        知能: Inteligencia.
+    たまに使ってるしー: La uso de vez en cuando, sabes?.
+        たまに: A veces/de vez en cuando.
+        使ってる: Forma coloquial de "使っている"(estar usando.)
+        しー: Forma informal de "し", que se usa para dar razones o justificar algo, tiene un tono convenciónal sauve, como diciendo, "es que..." o "pues...".
+    Resumen: Oye, bueno, yo también uso la inteligencia artificial de vez en cuando para estudiar español.
+
+    そうね！　このまま勉強頑張って！
+    そうね！: "Asi es" o "Si, verdad?."
+    このまま: "Tal como vas", "asi como esta ahora" o "de esta manera."
+    勉強頑張って！: "Esfuerzate con los estudios" o "Animo con el estudio."
+        勉強: Estudio.
+        頑張: Forma imperatiuva o exhortativa de "頑張る"(Esforzarse, dar lo mejor), muy común para dar 
+        ánimos.
+    Resumen: Asi es, Sigue estudianjdo con ganas.
+    おれも日本語じょうたつのためにじんこうちのうつかってる。
+    れも. Yo tambien.
+    日本語じょうたつのために: Para mejorar mi japonés.
+        日本語: Japonés.
+        じょうたつ: Mejora(en habilidades).
+        のために: con el fin de/para.
+    じんこうちのうつかってる: Estoy usando inteligencia artificial.
+        人工知能: Inteligencia artificial.
+        使ってる: Forma coloquial de "usar".
+            使っています: Forma mas educada.
+    Resumen: Yo tambien uso la inteligencia artificial para mejorar mi japonés.
+    めっちゃたすかってる。
+    めっちゃ: Muy(Super informal)
+        すごく: Muy(mas neutral.)
+    助かってる。: Me ayuda.
+        助かっています: Misma idea, pero mas formal.
+    Resumen: Me ayuda muchisimo.
