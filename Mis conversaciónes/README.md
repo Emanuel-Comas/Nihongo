@@ -505,3 +505,26 @@
         好きだよ。. Casual y amigable.
         好きです。: Más formal.
     Resumen: También me gusta Slam Dung.
+
+    ねえ、アニメやマンガが好きですか。
+    ねえ、: Para lalamr la atención de alguien, como decir: "oye" o "eh".
+    アニメ: Anime.
+    や: "y",  enumeración no exhaustiva, como ("anime y/o manga".)
+        Comparacion rapida:
+            A o B, A か B, Uso: Alternativa.
+            A y B(y mas.), A や B, Uso: Lista no completa.
+            A y B(solo esos dos.), A と B, Uso: Lista completa.
+    が好きですか。: te gusta?.
+    Resumen: Te gusta el anime o manga?.
+    いいです。
+    いいです。: Esta bien, neutral y educado.
+    Resumen: Esta bien.
+    勉強してる?。
+    勉強: "べんきょう", Estudio.
+    してる。: Forma contraida(Informal) de "している", que a su vez es la forma "te + iru" del verbo 
+    する(suru), que significa hacer.
+        する: Verbo "hacer".
+        している: "Estar haciendo"(forma continua.)
+        してる: Forma informal y abreviada de "している".
+    Resumen: Estas Estudiando?.
+    
