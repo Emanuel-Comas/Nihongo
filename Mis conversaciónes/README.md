@@ -468,14 +468,18 @@
         頑張: Forma imperatiuva o exhortativa de "頑張る"(Esforzarse, dar lo mejor), muy común para dar 
         ánimos.
     Resumen: Asi es, Sigue estudianjdo con ganas.
-    おれも日本語じょうたつのためにじんこうちのうつかってる。
+    おれも日本語じょうたつするためにじんこうちのうをつかってる。
     れも. Yo tambien.
-    日本語じょうたつのために: Para mejorar mi japonés.
+    日本語じょうたつするために: Para mejorar mi japonés.
         日本語: Japonés.
         じょうたつ: Mejora(en habilidades).
-        のために: con el fin de/para.
-    じんこうちのうつかってる: Estoy usando inteligencia artificial.
-        人工知能: Inteligencia artificial.
+        するために: con el fin de hacer algo/para hacer algo.
+        する: Hacer(verbo.) 
+        ため: Proposito/beneficio.
+        に: Particula que indica dirección o finalidad.
+    じんこうちのうをつかってる。: Estoy usando inteligencia artificial.
+        人工知能: (じんこうちのう), Inteligencia artificial.
+        を: Particula de objeto directo.
         使ってる: Forma coloquial de "usar".
             使っています: Forma mas educada.
     Resumen: Yo tambien uso la inteligencia artificial para mejorar mi japonés.
@@ -485,3 +489,19 @@
     助かってる。: Me ayuda.
         助かっています: Misma idea, pero mas formal.
     Resumen: Me ayuda muchisimo.
+
+
+    それー、マジわかる。
+    それー: Es como decir "Si, totalmente", "Eso, justo eso" o "Te entiendo perfectamente."
+    マジわかる。: "わかる" Entiendo/lo sé/lo siento.
+    Resumen: Totalmente, te entiendo.
+
+    スラムダングも好きだよ。
+    スラムダング: Slam dung, anime.
+    も. También.
+    好きだよ。: Me gusta, (forma afirmada y suave/informal).
+        好き: Muy casual.
+        好きだ。: Casual neutro, masculino.
+        好きだよ。. Casual y amigable.
+        好きです。: Más formal.
+    Resumen: También me gusta Slam Dung.
