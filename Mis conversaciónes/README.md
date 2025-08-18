@@ -218,6 +218,8 @@
     Resumen: "Ah, ya veo" o "Ah, asi es, he?"
 
 
+## Conversación sobre vida cotidiana.
+
     ふだんなにしてるの?
     ふだん: "Normalmente" o "Habitualmente".
     なに: "Qué".
@@ -507,7 +509,7 @@
     Resumen: También me gusta Slam Dung.
 
     ねえ、アニメやマンガが好きですか。
-    ねえ、: Para lalamr la atención de alguien, como decir: "oye" o "eh".
+    ねえ、: Para llamar la atención de alguien, como decir: "oye" o "eh".
     アニメ: Anime.
     や: "y",  enumeración no exhaustiva, como ("anime y/o manga".)
         Comparacion rapida:
@@ -528,6 +530,8 @@
         してる: Forma informal y abreviada de "している".
     Resumen: Estas Estudiando?.
     
+
+## Conversación sobre el clima.
 
     今日は雨が降って、寒くなると思います。
     今日: (きょう)Hoy. 
