@@ -528,3 +528,25 @@
         してる: Forma informal y abreviada de "している".
     Resumen: Estas Estudiando?.
     
+
+    今日は雨が降って、寒くなると思います。
+    今日: (きょう)Hoy. 
+        kanji: 今 = Ahora, 日 = Dia.
+    は: Particula del tema.
+    雨が降って: (あめがふって).
+        雨: あめ = lluvia
+        が: Particula que marca el sujeto (la lluvia).
+        降って: (ふって), forma て del verbo (降る, ふる), que significa "Caer" (Lluvia, nieve, etc.)
+        -- Se usa la forma "て" para conectar con la siguiente acción, como decir ("y luego").
+    寒くなる: (さむくなる).
+      寒い: (さむい), frio (adjetivo "i")
+      寒く: Forma adverbial de "寒い" (se usa para conectar con el verbo siguiente.)
+      なる: Volverse/llegar a ser, "Se pondra frio" o "Hará frio".
+    と思います。: (とおもいます)
+      と: Particula que marca lo que se piensa o dice (como comillas para una oración.)
+      思います: (おもいます), pienso/creo(verbo pensar: 思う).
+      -- Cuando se usa と思います, estás expresando una opinion o suposición.
+      -- Ese "と" no significa "y" en esta frasem sino que marca lo que se piensa, es parte de 
+      una estructura muy común:
+        [Oración] + と + 思います, se traduce como: "Creo que [Oración]" o "Pienso que [Oración]"
+    Resumen: Hoy, creo que va a llover y se va a poner frio.
