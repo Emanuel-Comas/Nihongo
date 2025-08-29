@@ -554,3 +554,48 @@
       una estructura muy común:
         [Oración] + と + 思います, se traduce como: "Creo que [Oración]" o "Pienso que [Oración]"
     Resumen: Hoy, creo que va a llover y se va a poner frio.
+
+
+
+## Conversaciones variadas.
+
+    はじめて聞いた
+    はじめて: Por primera vez.
+    聞いた: (きいた), escuché/oi.
+        -- Viene del verbo "聞く (きく)", que significa escuchar o oir.
+        聞いた: Es su forma en pasado.
+    Resumen: "Es la primera vez que lo escucho" o "Nunca habia oido eso antes".
+
+    面白いそう
+    面白い: (あもしろい), interesante, divertido, entretenido.
+    そう: Sufijo que indica apariencia o impresión, se usa para decir que algo parece ser de cierta manera 
+    (basado en lo que ves, escuchas o percibes.)
+        -- Se añade al final de un adjetivo o verbo para decir: "Parece que", "Se ve" o "Parece que va a..."
+    Resumen: Parece interesante.
+
+    おすすめ？
+    おすすめ: Viene del verbo すすめる(進める), que significa "recomendar", y お s un prefijo respetuoso.
+        -- Es una palabra muy común en japonés, usada apra hablar de cosas que alguien sugiere o recomienda, 
+        comida, peliculas, lugares, etc.
+        -- Entonces おすすめ literalemnte es:
+            Recomendación(respetuosa).
+    Resumen: Recomendación?, lo recomiendas?, o estu recomendación?. 
+
+    おすすめだよ。あと、シュタインズゲートもおすすめ。
+    おすすめだよ。: Lo recomiendo(forma casual y natural)
+    あと、: Ademas/también/y.
+    シュタインズゲート: Steins;gate(Anime).
+    も: También.
+        -- No es gramaticalmente necesario repetir おすすめ dos veces, pero hacerlo puede sonar más 
+        natural o claro, dependiente del estilo y tono que quieres usar.
+        Repetir おすすめ en la segunda oración suena natural en japonés convencional, especialmente 
+        cuando mencionas otro objeto distinto.
+        Repetir おすすめ: Más claro, más comun, suena bien.
+        No repetir: Más corto, casual, pero puede ser ambiguo si no hay contexto.
+    おすすめ。: Recomendación.
+
+    マンガ読む?。
+    マンガ: Manga(Haciendo referencia a un manga japonés.)
+    読む?。:　(よむ), Leer.
+        -- Se omite "Tú", como es común en japonés, es muy casual y común entre jovenes o amigos.
+    Resumen: Lees manga?.
