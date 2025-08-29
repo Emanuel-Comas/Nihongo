@@ -599,3 +599,24 @@
     読む?。:　(よむ), Leer.
         -- Se omite "Tú", como es común en japonés, es muy casual y común entre jovenes o amigos.
     Resumen: Lees manga?.
+
+
+    私には、完璧な文法の知識がないから、直せない。
+    私には、: "Para mi" o "yo"(con énfasis en el tema.)
+    完璧な文法の知識がないから、: Por que no tengo conocimiento perfecto de la gramatica.
+        完璧な : (かんぺきな), Perfecto.
+        文法 : (ぶんぽう), Gramática.
+        の : Particula de union de sustancivos o posesión.
+        知識 : (ちしき), Conocimiento.
+        が : Particula que marca el sujeto.
+        ない : No tener
+        から、: Porque (causa).
+    直せない。: (なおせない), No puedo corregir, es la forma negativa potencial del verbo (直す, 
+    なおす, "corregir o arreglar".)
+    Resumen: Como no tengo conocimiento perfecto en al gramatica, no puedo corregirlo.
+    あなたが、私の文章にしてくれたように。
+    あなたが、: Tú(Como sujeto.
+    私の文章: (わたしのぶんしょう), Mis oraciónes.
+    にしてくれた: Hiciste(por mi), する: hacer, くれる: Hacer algo para mi, y en pasado.
+    ように。: Como de la manera que...
+    Resumen: Como tú hiciste con mis oraciónes.直す
