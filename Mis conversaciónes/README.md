@@ -620,3 +620,39 @@
     にしてくれた: Hiciste(por mi), する: hacer, くれる: Hacer algo para mi, y en pasado.
     ように。: Como de la manera que...
     Resumen: Como tú hiciste con mis oraciónes.直す
+
+
+    大丈夫。
+    大丈夫。: (だいじょうぶ), Está bien/no pasa nada/no hay problema/estoy bien.
+    Resumen: Está bien o no te preocupes.
+
+    プログラミングできるのすごい。
+    プログラミング: Programacion.
+    できる: Poder hacer/saber hacer.
+    の: Particula.
+    すごい。"Increible" o "genial."
+    Resumen: Es impresionante que puedas programar.
+
+    少しだけ勉強したことあるけど、たのしいけど難しかった。
+    少し: (すこし), "Un poco" o "algo"(pequeña cantidad.)
+    だけ: "Solo" o "solamente."
+        少しだけ: (すこしだけ), solo un poco.
+    勉強: (べんきょう), Estudiar o aprender.
+    した: Verbo "する" en pasado, que significa "Hacer", した es el pasado de "hacer."
+        -- En este caso significa: "estudió" en el pasado.
+    こと: He hecho antes/tengo la experiencia de hacerlo.
+        -- Entonces 勉強したこと = "La experiencia de estudiar" o "el haber estudiado".
+        -- La persona esta diciendo que ha estudiado antes, auqnue sea un poco.
+    ある: Verbo en presente, signnifica "tener" o "haber" en este cotnexto.
+        -- Se usa para describir algo que existe o ha sucedido, en este caso algo en el pasado a ocurrido.
+    勉強したことある: "He tenido la experiencia de estudiar" o he "estudiado."
+    けど、: Pero/aunque.
+        -- Esta frase usa 2 veces, para hacer un contraste, lo divertdio de estudiar y lo dificil que fue.
+    たのしい: (楽しい), Divertido/agradable.
+    けど、: Pero/aunque.
+        -- Esta frase se usa otra vez, para hacer un contraste, lo divertdio de estudiar y lo dificil que fue.
+    難しかった。: (むずかしかった), Es como decir "fue dificil."
+        むずかしい: Dificil.
+        むずかしかった: La forma en pasado del adjetivo "むずかしい".
+    Resumen: He estudiado un poco, fue divertido pero dificil.
+
