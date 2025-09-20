@@ -656,3 +656,31 @@
         むずかしかった: La forma en pasado del adjetivo "むずかしい".
     Resumen: He estudiado un poco, fue divertido pero dificil.
 
+
+    私はいつも日本の動画を見ています。
+    私は: Yo.
+    いつも: Siempre.
+    日本の: De japón.
+    動画 (どうが): Videos.
+    を: Particula de objeto directo.
+    見ています。: Verbo mirar/ver en forma progresiva/formal.
+        見る: Verbo base => 'Ver'.
+        てい: Forma 'ている', indica acción habitual o continua => 'Estoy viendo/suelo ver'.
+    ます。: Forma formal.
+
+    --> Estructura: Yo | siempre | videos de japón (objeto) | veo (acción)
+
+    Resumen: Yo siempre veo videos de japón.
+    例えば、散歩やコンベンションの動画です。
+    例えば、(tatoeba): Por ejemplo.
+    散歩やコンベンションの動画です。: Aqui se dfa ejemplos concretos de los videos.
+        散歩 (sanpo): Paseo.
+        や: Particula que une ejemplos(como 'y/o', más abierto que と)
+        コンベンション(konbenshon): Convención.
+        の: Particual de posesión o relación.
+        動画 (どうが): Videos => 'videos de paseos y convenciónes'.
+    です。: Verbo ser formal(es/son).
+    Resumen: Por ejemplo, videos de paseos o convenciónes.
+
+    --> Estructura general: [tema]　は　[tiempo o frecuencia] [objeto] を　[verbo (forma - ている)].
+        例えば、[ejemplo 1] や [ejemplo 2]　の [objeto]　です。
