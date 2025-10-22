@@ -712,8 +712,52 @@ Diferencia entre [が] y [に] en este contexto.
 
 Ejemplo comparativo.
 
-    Japonés       | Español        | Notas
+    Japonés           | Español             | Notas
 
     エマが翻訳する => Ema traducira => Enfocado en quién hace la acción.
 
     エマに翻訳してもらう => Haré que Ema lo traduzca => Enfocado en recibir el favor de Ema.
+
+
+Cuándo usar cuál?.
+
+    -- Usa [エマが] si estás diciendo quién realiza la acción.
+    -- Usa [エマに] si estás diciendo que quieres que alguien haga algo por ti, o recibes la acción de 
+    alguien.
+
+Estructura general.
+
+    [Persona]に[Verbo て-forma]　もらう
+    -- Se traduce como => "Recibir el favor de que [Persona] haga [Algo]."
+
+
+Ejemplo con Ema.
+
+    エマに翻訳してもらいました => Ema ni hon yaku shite moraimashita.
+
+    Traducción: Ema me hizo el facor de traducirlo. o Le pedi a Ema que lo tradujera (y lo hizo).
+
+
+Desglose.
+
+    エマに => a Ema.
+    翻訳して => forma て　del verbo 翻訳する (traducir)
+    もらいました => forma cortés de もらう (recibir)
+
+Contraste con sujeto normal.
+
+    Frase               | Traducción | Quién actúa? | Para quién?
+
+    エマが翻訳しました => Ema tradujo => Ema => Neutro
+
+    エマに翻訳してもらいました => Le pedi a Ema que tradujera / 
+                                Ema tradujo para mi => Ema => Para mi
+
+
+Japonés (con furigana)         | Español
+
+先生に漢字を教えてもらいました => El profesor me enseñó los kanjis.
+
+友達に宿題を手伝ってもらった => Mi amigo me ayudó con la tarea.
+
+お母さんに弁当を作ってもらいました => Mi madre me preparó el almuerzo (como favor).
