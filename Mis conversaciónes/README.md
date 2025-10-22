@@ -684,3 +684,36 @@
 
     --> Estructura general: [tema]　は　[tiempo o frecuencia] [objeto] を　[verbo (forma - ている)].
         例えば、[ejemplo 1] や [ejemplo 2]　の [objeto]　です。
+
+
+
+Diferencia entre [が] y [に] en este contexto.
+
+エマが翻訳する。=> Ema ga hon yaku suru.
+
+    -- Ema traducirá / Ema es quien traduce.
+
+        -- Aqui, "Ema" es el sujeto, la persona que realiza la accion de traducir.
+
+        -- Se usa la particula [が], que marca al sujeto.
+
+
+
+エマに翻訳してもらう。=> Ema ni hon yaku shite morau.
+
+    -- "Le pedire a Ema que traduzca" / "Haré que Ema lo traduzca para mi".
+
+    -- En esta frase, Ema no es el sujeto, sino la persona a quien se le pide o se le encarga que haga algo.
+
+    -- Se usa [に] para marcar a la persona que hace algo por ti o para ti.
+
+    -- Esta estructura se llama la forma de 'benefactivo' => alguien hace algo por ti.
+
+
+Ejemplo comparativo.
+
+    Japonés       | Español        | Notas
+
+    エマが翻訳する => Ema traducira => Enfocado en quién hace la acción.
+
+    エマに翻訳してもらう => Haré que Ema lo traduzca => Enfocado en recibir el favor de Ema.
